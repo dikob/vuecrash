@@ -1,4 +1,7 @@
 # vuecrash
+```
+Vuejs app using a Laravel api to perform basic crud requests
+```
 
 ## Project setup
 ```
